@@ -1,0 +1,17 @@
+.random-background {
+  background: grey;
+  width: 35px;
+  height: 35px;
+  vertical-align: middle;
+  margin: 0 auto;
+  color: white;
+  border-radius: 50px;
+  font-size: 15px !important;
+  padding: 5px;
+}
+
+.msl-wrp {
+  text-align: center;
+  margin: 0 auto !important;
+  vertical-align: middle !important;
+}

@@ -1,0 +1,12 @@
+.profile-form {
+    width: 50%;
+    vertical-align: middle;
+    margin:  0 auto;
+}
+
+.error {
+    text-align: left;
+    font-size: inherit;
+    font-weight: 400;
+    color: red;
+}
